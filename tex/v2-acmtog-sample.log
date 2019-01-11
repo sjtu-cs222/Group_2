@@ -1,0 +1,312 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2018.9.19)  11 JAN 2019 15:29
+entering extended mode
+**v2-acmtog-sample.tex
+(C:\Users\apple\Desktop\approximate-cnn-classifier\v2-acmtog-sample.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(C:\Users\apple\Desktop\approximate-cnn-classifier\acmtog.cls
+Document Class: acmtog 2012/03/07
+(C:\CTEX\MiKTeX\tex\latex\base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(C:\Users\apple\Desktop\approximate-cnn-classifier\url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+\trimheight=\dimen102
+\trimwidth=\dimen103
+\typeheight=\dimen104
+\typewidth=\dimen105
+\normaltextheight=\dimen106
+\blindfoliodrop=\dimen107
+\tempbox=\box26
+\tempdimen=\dimen108
+\normaltextheight=\dimen109
+\c@secnumbookdepth=\count79
+\c@theorem=\count80
+\c@strategy=\count81
+\c@property=\count82
+\c@proposition=\count83
+\c@exam=\count84
+\c@part=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\belowcaptionskip=\skip41
+\tbbox=\box27
+\tabledim=\dimen110
+\@narrowfig=\dimen111
+\@nfigbox=\box28
+\@nfcapbox=\box29
+\@abstract=\box30
+\@terms=\box31
+\@keywords=\box32
+\bibindent=\dimen112
+LaTeX Info: Redefining \cal on input line 1053.
+
+(C:\CTEX\MiKTeX\tex\latex\psnfss\times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(C:\CTEX\MiKTeX\tex\latex\tools\bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup5
+\symboldletters=\mathgroup6
+\symboldsymbols=\mathgroup7
+\symboldlasy=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(C:\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+))
+(C:\Users\apple\Desktop\approximate-cnn-classifier\v2-acmtog-sample.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 29.
+
+(C:\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\bibhang=\skip42
+
+(C:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count93
+\scratchdimen=\dimen115
+\scratchbox=\box33
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count96
+\MPscratchDim=\dimen116
+\MPnumerator=\count97
+\makeMPintoPDFobject=\count98
+\everyMPtoPDFconversion=\toks16
+)
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 45.
+ (C:\CTEX\MiKTeX\tex\latex\psnfss\ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 45.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 45.
+
+(C:\CTEX\MiKTeX\tex\latex\base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Underfull \hbox (badness 3138) in paragraph at lines 46--48
+\OT1/ptm/m/n/8 Network on chip-s(NoC) is one of the com-mu-ni-ca-tion sys-tem-s
+ in
+ []
+
+<NoC.pdf, id=1, 819.06pt x 595.22375pt>
+File: NoC.pdf Graphic file (type pdf)
+ <use NoC.pdf>
+Package pdftex.def Info: NoC.pdf used on input line 66.
+(pdftex.def)             Requested size: 199.16928pt x 144.73666pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 67.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 67.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 67.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 67.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 67.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 67.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<router.pdf, id=2, 467.7475pt x 392.46625pt>
+File: router.pdf Graphic file (type pdf)
+ <use router.pdf>
+Package pdftex.def Info: router.pdf used on input line 77.
+(pdftex.def)             Requested size: 199.16928pt x 167.11632pt.
+ [1{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}
+Non-PDF special ignored!
+
+
+ <C:/Users/apple/Desktop/approximate-cnn-classifier/NoC.pdf> <C:/Users/apple/De
+sktop/approximate-cnn-classifier/router.pdf>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 91.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 91.
+
+<mesh.pdf, id=18, 444.66125pt x 436.63126pt>
+File: mesh.pdf Graphic file (type pdf)
+ <use mesh.pdf>
+Package pdftex.def Info: mesh.pdf used on input line 93.
+(pdftex.def)             Requested size: 199.16928pt x 195.56949pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<torus.pdf, id=19, 418.56375pt x 435.6275pt>
+File: torus.pdf Graphic file (type pdf)
+ <use torus.pdf>
+Package pdftex.def Info: torus.pdf used on input line 101.
+(pdftex.def)             Requested size: 199.16928pt x 207.28415pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Missing character: There is no ¡ in font ptmr7t!
+Missing character: There is no ¯ in font ptmr7t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 108.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 108.
+
+Overfull \vbox (0.50241pt too high) has occurred while \output is active []
+
+
+[2 <C:/Users/apple/Desktop/approximate-cnn-classifier/mesh.pdf> <C:/Users/apple
+/Desktop/approximate-cnn-classifier/torus.pdf>]
+Missing character: There is no ¡ in font ptmr7t!
+Missing character: There is no ¯ in font ptmr7t!
+
+<FD.pdf, id=33, 896.34875pt x 537.00626pt>
+File: FD.pdf Graphic file (type pdf)
+ <use FD.pdf>
+Package pdftex.def Info: FD.pdf used on input line 141.
+(pdftex.def)             Requested size: 256.0748pt x 153.4089pt.
+
+Overfull \hbox (16.0748pt too wide) in paragraph at lines 141--142
+[][] 
+ []
+
+Missing character: There is no ¡ in font ptmr7t!
+Missing character: There is no ¯ in font ptmr7t!
+
+Overfull \vbox (0.57443pt too high) has occurred while \output is active []
+
+
+[3 <C:/Users/apple/Desktop/approximate-cnn-classifier/FD.pdf>]
+Overfull \hbox (5.0957pt too wide) detected at line 176
+\OML/cmm/m/it/9 next\OT1/cmr/m/n/9 () = []
+ []
+
+<NIRGAM.pdf, id=42, 381.425pt x 336.25626pt>
+File: NIRGAM.pdf Graphic file (type pdf)
+ <use NIRGAM.pdf>
+Package pdftex.def Info: NIRGAM.pdf used on input line 190.
+(pdftex.def)             Requested size: 199.16928pt x 175.58284pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+[]\OT1/ptm/m/n/9 3. Cre-ate im-ple-men-ta-tion file my-router.cpp in
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 203--204
+\OT1/ptm/m/n/9 $NIRGAM/router/src. A tem-plate file is in-clud-ed in source
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+[]\OT1/ptm/m/n/9 7. Ed-it Make-file to in-clude name of source file in
+ []
+
+<result.pdf, id=43, 681.54625pt x 336.25626pt>
+File: result.pdf Graphic file (type pdf)
+ <use result.pdf>
+Package pdftex.def Info: result.pdf used on input line 220.
+(pdftex.def)             Requested size: 199.16928pt x 98.26605pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \vbox (0.50241pt too high) has occurred while \output is active []
+
+
+[4 <C:/Users/apple/Desktop/approximate-cnn-classifier/NIRGAM.pdf>]
+Overfull \vbox (0.57443pt too high) has occurred while \output is active []
+
+
+[5
+
+ <C:/Users/apple/Desktop/approximate-cnn-classifier/result.pdf>]
+(C:\Users\apple\Desktop\approximate-cnn-classifier\v2-acmtog-sample.aux) ) 
+Here is how much of TeX's memory you used:
+ 1711 strings out of 495354
+ 21184 string characters out of 3183859
+ 81204 words of memory out of 3000000
+ 4866 multiletter control sequences out of 15000+200000
+ 32174 words of font info for 85 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 34i,7n,21p,1248b,249s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/C
+TEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<C:/CTEX/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmex10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb>
+<C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/CTEX/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmr9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/CTEX/MiKTe
+X/fonts/type1/urw/times/utmr8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmri8
+a.pfb>
+Output written on v2-acmtog-sample.pdf (5 pages, 1156823 bytes).
+PDF statistics:
+ 83 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
